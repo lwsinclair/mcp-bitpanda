@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/matteoantoci-mcp-bitpanda-badge.png)](https://mseep.ai/app/matteoantoci-mcp-bitpanda)
+
 # MCP Bitpanda Server
 
 [![smithery badge](https://smithery.ai/badge/@matteoantoci/mcp-bitpanda)](https://smithery.ai/server/@matteoantoci/mcp-bitpanda)
